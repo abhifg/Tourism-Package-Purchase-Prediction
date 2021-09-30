@@ -9,7 +9,7 @@ travel packages are of high importance for tourism organizations.
 ## Approach
 The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
 ## Goal
-The goal is to predict whether the customer will purchase the travel or not.
+The goal is to predict whether the customer will purchase the tourism package or not.
 ## Dataset
 https://github.com/abhifg/Tourism-Package-Purchase-Prediction/blob/main/tourism-data.xlsx
 ## Data Description
