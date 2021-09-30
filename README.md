@@ -11,7 +11,7 @@ The classical machine learning tasks like Data Exploration, Data Cleaning, Featu
 ## Goal
 The goal is to predict whether the customer will purchase the travel or not.
 ## Dataset
-https://github.com/Suvam-Bit/Datasets/blob/main/Tourism%20Package%20Purchase%20Prediction/tourism-data.xlsx
+https://github.com/abhifg/Datasets/blob/main/Tourism%20Package%20Purchase%20Prediction/tourism-data.xlsx
 ## Data Description
 CustomerID : Unique customer ID
 
